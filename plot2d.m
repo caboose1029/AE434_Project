@@ -9,7 +9,7 @@ Wz = z(:);
     hold on
     
     plot(t,Wx,'g');
-    plot(t,Wy-0.01*Wy,'b');
+    plot(t,Wy,'b');
     plot(t,Wz,'r');
     title('Angular velocity components over time (numerical)' );
     

@@ -47,3 +47,6 @@ z_combined = [W02 * ones(ts_index, 1); z];
 
 % Plot the angular velocities over time
 plot2d(t_combined,xy_combined,z_combined)
+
+
+
